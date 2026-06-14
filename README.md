@@ -1,4 +1,4 @@
-# My-first-combat-robot
+# My first combat robot
 This is my first combat robot that i made. I made it because i saw some on youtube and i thought they were really cool. My main inspiration for this robot was a video from Maker's Muse.
 My goal was to make it weight less than 150 grams so that it stays in the antweight class, so hopefully i managed to reach that goal.
 
