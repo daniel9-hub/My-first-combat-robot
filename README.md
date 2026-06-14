@@ -8,7 +8,8 @@ My goal was to make it weight less than 150 grams so that it stays in the antwei
 # Here is the wiring scheme:
 <img width="2128" height="1080" alt="wiring scheme combat robot" src="https://github.com/user-attachments/assets/8aac9ff5-7977-4be1-88d1-6365c78cc2c7" />
 
-
+# Link to Onshape document
+https://cad.onshape.com/documents/cc58c777408161201c337da8/w/060d276294422a715ff3fbca/e/c67edc8a3e7c9b9e108ccebd
 
 
 
