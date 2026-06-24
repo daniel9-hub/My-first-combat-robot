@@ -13,10 +13,11 @@ https://cad.onshape.com/documents/cc58c777408161201c337da8/w/060d276294422a715ff
 
 # Assembly guide
 1. Cut the rulers to lenght and drill the holes into them. The weapon ruler should be 100mm long and the hole should be in the middle. The ruler that goes on the top should be 150mm and the holes should be in the position where they are on the robot body. The ruler that goes on the bottom should be 150mm and the holes should also be in the positions where they are on the body.
-2. Put the top, middle, bottom body, and the rulers together like shown in the picture of the bot and put the 35mm screws through them and put on the nuts.
-3. Put the motor in the motor slot and screw it on together with the slider.
-4. Put the ruler on the motor.
-5. Screw on the bottom slider into the ruler like shown in the picture of the bot.
+2. Put all of the electronics in the main body.
+3. Put the top, middle, bottom body, and the rulers together like shown in the picture of the bot and put the 35mm screws through them and put on the nuts.
+4. Put the motor in the motor slot and screw it on together with the slider.
+5. Put the ruler on the motor.
+6. Screw on the bottom slider into the ruler like shown in the picture of the bot.
 
 
 
